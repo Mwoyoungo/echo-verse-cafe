@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { BookOpen, Headphones, MessageCircle, ChevronLeft } from 'lucide-react';
@@ -82,7 +81,7 @@ He didn't say any more, but we've always been unusually communicative in a reser
         id: 'a1',
         startIndex: 84,
         endIndex: 208,
-        text: '"Whenever you feel like criticizing any one," he told me, "just remember that all the people in this world haven't had the advantages that you've had."',
+        text: '"Whenever you feel like criticizing any one," he told me, "just remember that all the people in this world haven\'t had the advantages that you\'ve had."',
         audioUrl: 'https://cdn.freesound.org/previews/686/686352_14005979-lq.mp3',
         author: 'John Doe',
         timestamp: '1 week ago'
