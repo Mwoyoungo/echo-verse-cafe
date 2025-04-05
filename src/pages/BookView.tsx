@@ -151,7 +151,7 @@ const BookView = () => {
     
     toast({
       title: "Voice note added!",
-      description: "Your voice note has been saved and is now visible to others.",
+      description: "Your voice note has been saved and is now visible to others."
     });
   };
 
