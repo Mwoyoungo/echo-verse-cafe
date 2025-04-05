@@ -152,7 +152,7 @@ const BookView = () => {
     toast({
       title: "Voice note added!",
       description: "Your voice note has been saved and is now visible to others.",
-      variant: "default"  // Added missing variant to resolve comma/colon errors
+      variant: "default"
     });
   };
 
